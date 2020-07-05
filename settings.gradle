@@ -1,0 +1,2 @@
+rootProject.name='dev-intensive_home_task_2'
+include ':app'
